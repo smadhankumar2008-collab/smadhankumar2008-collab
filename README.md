@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi there 👋, I'm Madhankumar
 
-<!--
-**smadhankumar2008-collab/smadhankumar2008-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 First Year AI Student  
+📊 Aspiring Data Analyst  
+🐍 Learning Python, SQL, and Power BI  
+🤖 Interested in Artificial Intelligence and Machine Learning  
+📈 Passionate about turning data into meaningful insights  
+🌱 Currently improving my Data Analytics and Programming skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Programming Languages
+- Python
+- SQL
+
+### Data Analytics Tools
+- Power BI
+- Excel
+- Pandas
+
+### Web Technologies
+- HTML
+- CSS
+- JavaScript
+
+### Other Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📚 Currently Learning
+- Data Analysis
+- Machine Learning
+- Database Management
+- Data Visualization
+
+---
+
+## 📌 Projects
+- Student Management System
+- Company Website using Node.js and Express
+- Data Analytics Dashboards using Power BI
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/your-linkedin-id
+- GitHub: https://github.com/your-github-username
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
+
+---
+
+⭐ "Curiosity drives learning, and learning drives innovation."
