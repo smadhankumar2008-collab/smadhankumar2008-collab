@@ -50,9 +50,8 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-linkedin-id
-- GitHub: https://github.com/your-github-username
-
+- LinkedIn: https://www.linkedin.com/in/smadhankumar2024
+- GitHub: https://github.com/smadhankumar2008-collab
 ---
 
 ## 📊 GitHub Stats
